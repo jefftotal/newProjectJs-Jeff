@@ -3,7 +3,7 @@
 function Home(){
     return (
         <div>
-            <p>Busca Pré-Venda Consinco para ifood</p>
+            <p>Retorna a Pré-Venda Consinco para ifood</p>
         </div>
 
     )
