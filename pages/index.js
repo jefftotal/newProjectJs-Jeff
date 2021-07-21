@@ -3,7 +3,7 @@
 function Home(){
     return (
         <div>
-            <h2>Retorna a Pré-Venda Consinco para ifood</h2>
+            <h2>Retorna a Pré-Venda C5 para ifood</h2>
         </div>
 
     )
