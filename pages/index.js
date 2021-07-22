@@ -7,11 +7,8 @@ function PreVenda(){
 
 function Home(){
     return (
-        <div>
-            <PreVenda/>
-        </div>
-
-    )
+           <PreVenda/>
+     )
     
     
 
