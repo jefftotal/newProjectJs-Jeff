@@ -8,7 +8,7 @@ function PreVenda(){
 function Home(){
     return (
         <div>
-            PreVenda
+            <PreVenda/>
         </div>
 
     )
